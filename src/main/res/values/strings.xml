@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Home Bookkeeping</string>
+    <string name="currency">R</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="delete_acc">Delete this account?\nPlease, select another account for reassignment!</string>
+    <string name="delete_operation">Delete this operation?</string>
+    <string name="delete">Delete</string>
+    <string name="nothing_to_delete">This is the only one record!</string>
+
+    <string name="add_acc">Add new account</string>
+
+    <string name="account_name">Account name:</string>
+    <string name="account_desc">Account description:</string>
+    <string name="account_balance">Account start balance:</string>
+
+    <string name="action_add_acc">Add account</string>
+    <string name="title_activity_category">Categories</string>
+
+    <string name="action_add_category">Add category</string>
+    <string name="category_name">Category name:</string>
+    <string name="income">Income</string>
+    <string name="operation_value">Value:</string>
+    <string name="operation_desc">Description:</string>
+    <string name="deleted">Deleted: </string>
+    <string name="action_categories">Categories</string>
+    <string name="title_activity_operation">Operations</string>
+    <string name="action_add_operation">Add operation</string>
+    <string name="action_add_transfer">Add transfer operation</string>
+    <string name="action_ops_search">Operations search</string>
+
+    <string name="from">From: </string>
+    <string name="to">To: </string>
+</resources>

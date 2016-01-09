@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_add_acc" android:title="@string/action_add_acc"
+        android:orderInCategory="100" android:showAsAction="never"/>
+    <item android:id="@+id/action_categories" android:title="@string/action_categories"
+        android:orderInCategory="100" android:showAsAction="never"/>
+    <item android:id="@+id/action_ops_search" android:title="@string/action_ops_search"
+        android:orderInCategory="100" android:showAsAction="never"/>
+</menu>
